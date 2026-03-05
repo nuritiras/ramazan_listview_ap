@@ -36,14 +36,14 @@ Projeyi yerel makinenizde çalıştırmak için şu adımları izleyin:
 
 1. **Depoyu Klonlayın:**
 ```bash
-git clone https://github.com/kullaniciadi/ramazan-imsakiyesi-2026.git
+git clone https://github.com/nuritiras/ramazan_listview_ap.git
 
 ```
 
 
 2. **Proje Dizinine Gidin:**
 ```bash
-cd ramazan-imsakiyesi-2026
+cd ramazan_listview_ap
 
 ```
 
